@@ -1,0 +1,27 @@
+site_name: 'UMD DCB and Opt. Mezz.'
+site_url: http://temp
+
+repo_name: temp
+repo_url: http://temp
+
+theme:
+    name: 'cinder'
+    logo: umd_logo.png
+    include_search_page: false
+    feature:
+        tabs: true
+
+nav:
+    - Background: history/history.md
+    - DCB:
+        - DCB Function: dcb/dcb_func/dcb_func.md
+        - Glossary: dcb/dcb_func/gloss.md
+    - LVR:
+        - LVR Function: lvr/lvr.md
+
+
+markdown_extensions:
+    - admonition
+    - pymdownx.critic
+    - pymdownx.caret
+    - def_list
