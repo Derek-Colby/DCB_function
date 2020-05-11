@@ -1,8 +1,3 @@
-# ut-hw-doc [![Build status](https://travis-ci.com/umd-lhcb/ut-hw-doc.svg?build)](https://travis-ci.com/umd-lhcb/ut-hw-doc)
-Documentation for hardware designed by UMD LHCb group. The website is available
-at https://umd-lhcb.github.io/ut-hw-doc
-
-
 ## Test the site locally
 Install the required Python pacakges via:
 ```
