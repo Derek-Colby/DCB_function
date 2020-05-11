@@ -1,3 +1,0 @@
-## The LHCb Experiment
-
-## Upgrades
